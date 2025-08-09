@@ -17,10 +17,8 @@
 
 linkedin_url = "https://www.linkedin.com/in/veeresh-uppar/"
 
-print(f"""
-🌐 **Connect with me on LinkedIn**  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]({linkedin_url})
-""")
+
 
 
 
