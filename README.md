@@ -9,7 +9,7 @@
 🤖 Interested in AI advancements and applying them to data projects  
 
 ## Skill and Tools
-# 🧠 The Stuff I Know
+### 🧠 The Stuff I Know
 | ![Python](https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue) | ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 |---|---|---|
 | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white) |
