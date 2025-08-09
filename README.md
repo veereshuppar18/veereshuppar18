@@ -16,11 +16,11 @@
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-1A366D?style=for-the-badge&logo=seaborn&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | 
 
 
-🔗 Connect with Me
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veeresh-uppar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veereshhalvi11@gmail.com)
 
-📌 **Conclusion**  
+## 📌 **Conclusion**  
 I am passionate about data analytics, transforming raw data into meaningful insights.  
 With expertise in Python, SQL, and Power BI, I am committed to solving real-world data problems.  
 Feel free to connect with me to discuss data analytics, projects, or career opportunities 🚀
