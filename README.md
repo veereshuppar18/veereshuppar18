@@ -8,6 +8,7 @@
 ⚡ Fun fact: Data storytelling is like magic—insights appear where numbers once stood  
 🤖 Interested in AI advancements and applying them to data projects  
 
+#Skill and Tools
 ## 🧠 The Stuff I Know
 | ![Python](https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue) | ![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 |---|---|---|
