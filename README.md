@@ -8,11 +8,18 @@
 ⚡ Fun fact: Data storytelling is like magic—insights appear where numbers once stood  
 🤖 Interested in AI advancements and applying them to data projects  
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%234B8BBE.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-%23008080.svg?style=for-the-badge&logo=gnuplot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/SQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-00CED1?style=for-the-badge&logo=gnuplot&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-1A366D?style=for-the-badge&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 
