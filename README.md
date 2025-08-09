@@ -6,7 +6,6 @@
 📊 Experienced in data visualization and simplifying complex data  
 🏆 Strong analytical and problem-solving abilities  
 ⚡ Fun fact: Data storytelling is like magic—insights appear where numbers once stood  
-🤖 Interested in AI advancements and applying them to data projects  
 
 ## Skill and Tools
 ### 🧠 The Stuff I Know
